@@ -1,6 +1,12 @@
 # JavaScript_StonPaperScissors_
 🎮 Challenge your reflexes with this Stone-Paper-Scissors game! Built with vanilla JavaScript, this mini-project showcases how simple logic and clean design can create engaging user experiences. Perfect for learning DOM events and conditional rendering.
 
+## 🎮 Play My Game:
+<p align="left">
+  <a href="https://spsgrund.netlify.app//" target="_blank">
+    <img src="https://img.shields.io/badge/-Play%20Now-ffcc00?style=for-the-badge&logo=super-mario&logoColor=white" />
+  </a>
+</p>
 
 ##😎
 
